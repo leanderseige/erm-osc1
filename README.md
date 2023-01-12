@@ -6,7 +6,7 @@ I was happy and found all components in my already available stock from 30 years
 
 I changed some of the details and finally came out with this schematic:
 
-![](images/schematic.png)
+![](schematic.png)
 
 I added a 100nF capacitor on each output channel in order to remove DC components which seemed to be present in one or another form all the time.
 
