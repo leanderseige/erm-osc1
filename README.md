@@ -1,8 +1,8 @@
 # Simple Oscillator as Eurorack Module
 
-I was looking for a small project for my first Eurorack module and I chose to build a simpley (not voltage controlled) Oscillator. The circuit diagram that inspired me was that: http://www.learningaboutelectronics.com/Articles/Function-generator-circuit.php
+I was looking for a small project for my first Eurorack module and I chose to build a simple (not voltage controlled) oscillator. The circuit diagram that inspired me was: http://www.learningaboutelectronics.com/Articles/Function-generator-circuit.php
 
-I was happy and found all components in my already available stock from 30 years of DYI'ing electronics. For instance the OpAmp and the 33nF capacitor must  clearly be from the past century.
+I was lucky and found all components in my already available stock from 30 years of DYI'ing electronics. For instance the OpAmp and the 33nF capacitor must  clearly be from the past century.
 
 I changed some of the details and finally came out with this schematic:
 
